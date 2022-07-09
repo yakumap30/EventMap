@@ -16,7 +16,7 @@
     ],
     [
       "2022/05/11 14:46:34",
-      "オフィス",
+      "イベント",
       "https://yakumap30.github.io/EventMap/mosslogo.jpg",
       "30.273205",
       "130.62018",
@@ -25,6 +25,18 @@
       "moss_ocean_house",
       "",
       "https://moss6.com/"
+    ],
+    [
+      "",
+      "イベント",
+      "https://yakumap30.github.io/EventMap/aperuy.png",
+      "30.296767",
+      "130.641239",
+      "アペルイ",
+      "エコヴィレッジ",
+      "ecovillage.yakushima",
+      "",
+      "https://aperuy.com/"
     ]
   ]
 }
