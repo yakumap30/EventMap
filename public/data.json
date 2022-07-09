@@ -16,15 +16,39 @@
     ],
     [
       "2022/05/11 14:46:34",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.730091",
-      "139.73754",
-      "株式会社Geolonia",
-      "株式会社Geoloniaの東京オフィスです",
+      "イベント",
+      "https://yakumap30.github.io/EventMap/mosslogo.jpg",
+      "30.273205",
+      "130.62018",
+      "モスオーシャンハウス",
+      "海と川と森と里が出会う場所",
+      "moss_ocean_house",
       "",
-      "geoloniamap",
-      "https://geolonia.com"
+      "https://moss6.com/"
+    ],
+    [
+      "",
+      "イベント",
+      "https://yakumap30.github.io/EventMap/aperuy.png",
+      "30.296767",
+      "130.641239",
+      "アペルイ",
+      "エコヴィレッジ",
+      "ecovillage.yakushima",
+      "",
+      "https://aperuy.com/"
+    ],
+    [
+      "",
+      "イベント",
+      "https://yakumap30.github.io/EventMap/yakuroster.jpg",
+      "30.284067",
+      "130.627405",
+      "やくしまロースター",
+      "屋久島の水 X ハンドローストコーヒー X ピュアチョコレート",
+      "yakushima_roaster",
+      "",
+      "https://www.yakushimaroaster.com/"
     ]
   ]
 }

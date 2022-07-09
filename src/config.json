@@ -1,9 +1,9 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
-  "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
+  "title": "世界自然遺産登録30周年記念イベントマップ",
+  "description": "屋久島が世界自然遺産に登録されて、2023年で30周年になります。屋久島が歩いてきた30年を皆さんでお祝いしましょうっ!!",
+  "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSfIgUvxOH0Jbv_SJzCBg9Z3esLjNeWIdlSlmEGbZV37Ai7rgw/viewform",
+  "logo_image_url": "",
+  "background_image_url": "https://yakumap30.github.io/EventMap/167555951_158544346049378_8016613795082364513_n.jpg",
   "primary_color": "#d2691e",
   "orderby": "distance"
 }
