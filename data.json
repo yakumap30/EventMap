@@ -1,7 +1,54 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022/05/11 14:46:34",
+      "イベント",
+      "https://yakumap30.github.io/EventMap/mosslogo.jpg",
+      "30.273205",
+      "130.62018",
+      "モスオーシャンハウス",
+      "海と川と森と里が出会う場所",
+      "moss_ocean_house",
+      "",
+      "https://moss6.com/"
+    ],
+    [
+      "",
+      "イベント",
+      "https://yakumap30.github.io/EventMap/aperuy.png",
+      "30.296767",
+      "130.641239",
+      "アペルイ",
+      "エコヴィレッジ",
+      "ecovillage.yakushima",
+      "",
+      "https://aperuy.com/"
+    ],
+    [
+      "",
+      "イベント",
+      "https://yakumap30.github.io/EventMap/yakuroster.jpg",
+      "30.284067",
+      "130.627405",
+      "やくしまロースター",
+      "屋久島の水 X ハンドローストコーヒー X ピュアチョコレート",
+      "yakushima_roaster",
+      "",
+      "https://www.yakushimaroaster.com/"
+    ]
+  ]
 }
